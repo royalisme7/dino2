@@ -1,0 +1,5 @@
+C:\Users\mzpin\source\repos\D vs R\bin\Debug\netcoreapp3.1\D vs R.exe
+C:\Users\mzpin\source\repos\D vs R\obj\Debug\netcoreapp3.1\D vs R.csprojAssemblyReference.cache
+C:\Users\mzpin\source\repos\D vs R\obj\Debug\netcoreapp3.1\D vs R.AssemblyInfoInputs.cache
+C:\Users\mzpin\source\repos\D vs R\obj\Debug\netcoreapp3.1\D vs R.AssemblyInfo.cs
+C:\Users\mzpin\source\repos\D vs R\obj\Debug\netcoreapp3.1\D vs R.csproj.CoreCompileInputs.cache

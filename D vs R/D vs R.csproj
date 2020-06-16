@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>D_vs_R</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\mzpin\OneDrive\Desktop\kee\DINO\battlefield.cs" Link="battlefield.cs" />
+    <Compile Include="D:\school\program\R vs D.cs" Link="R vs D.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NEST" Version="7.7.1" />
+    <PackageReference Include="System.Console" Version="4.3.1" />
+  </ItemGroup>
+
+</Project>
